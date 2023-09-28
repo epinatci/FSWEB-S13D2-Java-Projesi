@@ -25,7 +25,6 @@ public class Main {
         System.out.println(getEvenDigitSum(123456789));
         System.out.println(getEvenDigitSum(-8888));
 
-        System.out.println("***********************************");
 
 
     }
